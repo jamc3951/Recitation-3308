@@ -18,3 +18,4 @@ This might cause a merge conflict
 This might cause a merge conflict
 This might cause a merge conflict
 This might cause a merge conflict
+All I want for christmas is a merge conflict.
